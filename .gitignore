@@ -1,0 +1,4 @@
+env
+server/__pycache__
+api/_pycachce__
+*.pyc
